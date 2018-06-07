@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Red Velvet Archive Test Page </title>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+</head>
+<body>
+  <div align=center>
+
+    <input type="file" id="i_file" value="">
+    <input type="button" id="i_submit" value="Submit">
+    <br>
+    <img id="disp_img" src="" width="200" style="display:none;" />
+    <br>
+    <div id="disp_tmp_path"></div>
+
+
+  <script type="text/javascript">
+    $('#i_file').change( function(event) {
+      var tmppath = URL.createObjectURL(event.target.files[0]);
+      $("#disp_img").fadeIn("fast").attr('src',URL.createObjectURL(event.target.files[0]));
+
+      $("#disp_tmp_path").html("Temporary Path(Copy it and try pasting it in browser address bar) --> <strong>["+tmppath+"]</strong>");
+    });
+
+    jQuery(function($){$('#result').load('index.html #banner');});
+  </script>
+
+<form>
+  <input type="text" name="name" id="firstField"/>
+  <img src="img/bir.jpg" style="display: none; background: #000;" id="image" width="100px">
+  <img src="img/wan.jpg" style="display: none; background: #ff0000;" id="image2" width="100px">
+  <input type="text" name="name" id="secField" onchange="equals()"/>
+</form>
+
+
+<script type="text/javascript">
+  var firstField = document.getElementById('firstField');
+  var secField =   document.getElementById('secField');
+  var image =    document.getElementById('image');
+  var image2 =    document.getElementById('image2');
+
+  function equals() {
+    if(firstField.value == secField.value) {
+        image.style.display = 'block';
+        image2.style.display = 'none';
+    }
+    else {
+        image.style.display = 'none';
+        image2.style.display = 'block';
+    }
+  }
+  firstField.onkeyup = equals;
+  secField.onkeyup = equals;
+
+
+</script>
+
+
+<button onclick="document.getElementById('myImage').src='img/bir.jpg'">irene</button>
+
+<img id="myImage" src="img/wan.jpg" style="width:100px">
+
+<button onclick="document.getElementById('myImage').src='img/wan.jpg'">wendy</button>
+<script>document.getElementById('myImage').src='img/bir.jpg'
+</script>
+
+</div>
+</body>
+</html>

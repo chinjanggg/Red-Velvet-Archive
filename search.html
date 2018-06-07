@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/png" href="img/logo.png"/>
+    <title>Red Velvet Archive</title>
+
+    <!--Bootstrap-->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="js/jquery.scrl.js"></script>
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="bootstrap/js/ie10-viewport-bug-workaround.js" rel="stylesheet">
+
+    <!-- Web CSS-->
+    <link href="css/template.css" rel="stylesheet">
+    <link href="css/search.css" rel="stylesheet">
+
+    <!-- Web JavaScript-->
+    <script src="js/templates.js"></script>
+    <script src="js/addtag.js"></script>
+  </head>
+
+  <body id="page-top">
+    <!--NAVBAR-->
+    <div id="nav-placeholder"></div>
+
+    <!--CONTENT HEADER-->
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-6 col-xs-offset-2 col-md-6 col-md-offset-2">
+          <div class="header">
+            ♥ Search Tag ♥
+          </div>
+          <div class="tag-field">
+            <label for="tag">Enter Your Tag!</label>
+            <div class="input-field">
+                <input type="text" id="input-tag" name="input-tag" onkeydown="addNewTag(event)">
+            </div>
+          </div>
+          <div id="tagList"></div>
+          <div class="tag-button">
+            <a class="btn btn-go" href="#" role="button">Leggo!</a>
+            <a class="btn btn-clear" href="#" role="button">clear all tag</a>
+          </div>
+        </div>
+        <div class="col-xs-2 col-xs-offset-1 col-md-2 col-md-offset-1">
+          <p>
+            <a href="irene.html"><img class="img-circle" src="img/bir.jpg" alt="Irene"></a>
+          </p>
+          <div class="popular-tag">
+            POPULAR TAG<br>
+            <a class="btn btn-tag" href="#" role="button">#Irene</a>
+            <a class="btn btn-tag" href="#" role="button">#Hat</a>
+            <a class="btn btn-tag" href="#" role="button">#BlondeHair</a>
+            <a class="btn btn-tag" href="#" role="button">#EndingGoddess</a>
+          </div>
+        </div>
+      </div>
+
+      <!--FOOTER-->
+      <div id="footer"></div>
+
+    </div><!-- /.container -->
+
+    <!--jQuery & Bootstrap JS-->
+    <script src="bootstrap/js/jquery.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="bootstrap/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>

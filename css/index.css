@@ -1,0 +1,24 @@
+div.outer-div {
+  width: 100%;
+}
+
+div.middle-div {
+  margin: 0 auto;
+}
+
+.banner {
+  padding: 20px;
+  text-align: center;
+}
+
+
+@media (min-width: 480px) {
+  .row {
+    font-size: 1.2em;
+  }
+}
+@media (min-width: 992px) {
+  .row {
+    font-size: 1.6em;
+  }
+}

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">member</Data></Cell>
+			<Cell><Data ss:Type="String">fname</Data></Cell>
+			<Cell><Data ss:Type="String">twitterLink</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Group</Data></Cell>
+			<Cell><Data ss:Type="String">Charismatic Yerene</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/HkYerene</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Group</Data></Cell>
+			<Cell><Data ss:Type="String">Galaxy in ur Eyes (네 눈 안의 우주)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/galaxiesinureye</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Group</Data></Cell>
+			<Cell><Data ss:Type="String">mamass (마마쓰)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/_mamass_</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Group</Data></Cell>
+			<Cell><Data ss:Type="String">Red Gun (레드건)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/Yerl_doll</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Group</Data></Cell>
+			<Cell><Data ss:Type="String">Red Moon</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/Red_Moon_RV</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Group</Data></Cell>
+			<Cell><Data ss:Type="String">Rocket to the Planet</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/rocketxplanet</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Group</Data></Cell>
+			<Cell><Data ss:Type="String">TheRigel005</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/Therigel005</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Irene</Data></Cell>
+			<Cell><Data ss:Type="String">Always Beautiful (언제나 아름다워)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/always0329</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Irene</Data></Cell>
+			<Cell><Data ss:Type="String">B-329</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/B329_91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Irene</Data></Cell>
+			<Cell><Data ss:Type="String">Baby Bottle</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/babybottle329</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Irene</Data></Cell>
+			<Cell><Data ss:Type="String">BAEBY</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/Baeby329</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Irene</Data></Cell>
+			<Cell><Data ss:Type="String">Be My Brownie</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/bemybrownie91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Irene</Data></Cell>
+			<Cell><Data ss:Type="String">Celestial (셀레스티얼)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/Celestial329</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Irene</Data></Cell>
+			<Cell><Data ss:Type="String">Golden Slumber</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/GoldenSlumber91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Irene</Data></Cell>
+			<Cell><Data ss:Type="String">IreneBar</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/IreneBar_</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Irene</Data></Cell>
+			<Cell><Data ss:Type="String">Love is in the Air</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/loveis329</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Irene</Data></Cell>
+			<Cell><Data ss:Type="String">MORNING</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/Morning_329</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Irene</Data></Cell>
+			<Cell><Data ss:Type="String">Rabbit Queen (래빗퀸)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/RabbitQueen91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Irene</Data></Cell>
+			<Cell><Data ss:Type="String">Snowy329</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/Snowy3291</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Irene</Data></Cell>
+			<Cell><Data ss:Type="String">Sour Candy Rabbit</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/sourcandyrabbit</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Irene</Data></Cell>
+			<Cell><Data ss:Type="String">Star Blanket (별을 덮고 자는 소녀)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/starblanket_91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Irene</Data></Cell>
+			<Cell><Data ss:Type="String">SWEET CAKE</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/sweetcake329</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Irene</Data></Cell>
+			<Cell><Data ss:Type="String">SweetBae</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/SweetBae329</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Irene</Data></Cell>
+			<Cell><Data ss:Type="String">ThinkB (자꾸 생각나)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/thinkB329</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Joy</Data></Cell>
+			<Cell><Data ss:Type="String">A Shine Universe (어샤인유니버스)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/shineuniverse93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Joy</Data></Cell>
+			<Cell><Data ss:Type="String">Be My Jewel</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/BeMyJewel_0903</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Joy</Data></Cell>
+			<Cell><Data ss:Type="String">Full of Joy</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/FullofJoy960903</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Joy</Data></Cell>
+			<Cell><Data ss:Type="String">JoyHK</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/joyhk_rv</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Joy</Data></Cell>
+			<Cell><Data ss:Type="String">ParkSooYoungBar</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/ChinaJoyBar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Joy</Data></Cell>
+			<Cell><Data ss:Type="String">Pumpkin</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/Pumpkin960903</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Joy</Data></Cell>
+			<Cell><Data ss:Type="String">SHVJOY</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/ChinaSHVJOY</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Joy</Data></Cell>
+			<Cell><Data ss:Type="String">Sweet Temptation</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/SweetTempt_0903</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Joy</Data></Cell>
+			<Cell><Data ss:Type="String">Wonder Never Cease</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/WNCJOY</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seulgi</Data></Cell>
+			<Cell><Data ss:Type="String">Fabulous</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/Fabulous__SG</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seulgi</Data></Cell>
+			<Cell><Data ss:Type="String">Hydrogen (수소)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/hydrogen_pic</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seulgi</Data></Cell>
+			<Cell><Data ss:Type="String">Irreplaceable (이리플레이서블)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/94irreplaceable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seulgi</Data></Cell>
+			<Cell><Data ss:Type="String">RICKKONG</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/Rickkong_</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seulgi</Data></Cell>
+			<Cell><Data ss:Type="String">Sensible K</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/sensible_k</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seulgi</Data></Cell>
+			<Cell><Data ss:Type="String">SeulgiBar</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/Baidu_SeulgiBar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seulgi</Data></Cell>
+			<Cell><Data ss:Type="String">Sparkle</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/sparkle_sg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seulgi</Data></Cell>
+			<Cell><Data ss:Type="String">Ursa Major</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/UMa940210</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Wendy</Data></Cell>
+			<Cell><Data ss:Type="String">AQUA MOOD</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/AQUAMOOD94</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Wendy</Data></Cell>
+			<Cell><Data ss:Type="String">B612 (완행성)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/Wendy_B612</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Wendy</Data></Cell>
+			<Cell><Data ss:Type="String">Bluecake</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/bluecake_xyz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Wendy</Data></Cell>
+			<Cell><Data ss:Type="String">Dearlightwendy</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/dearlightwendy</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Wendy</Data></Cell>
+			<Cell><Data ss:Type="String">ENGM</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/engm_kr</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Wendy</Data></Cell>
+			<Cell><Data ss:Type="String">Fantasy Blue</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/FantasyBlue94</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Wendy</Data></Cell>
+			<Cell><Data ss:Type="String">IneffableVoice</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/ineffablevoice</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Wendy</Data></Cell>
+			<Cell><Data ss:Type="String">MapleSyrup</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/maplesyrup0221</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Wendy</Data></Cell>
+			<Cell><Data ss:Type="String">THE SMURF</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/thesmurf_94</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Wendy</Data></Cell>
+			<Cell><Data ss:Type="String">WendyBar</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/BaiduWendybar_</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Wendy</Data></Cell>
+			<Cell><Data ss:Type="String">WENever (웬에버)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/wenever940221</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Wendy</Data></Cell>
+			<Cell><Data ss:Type="String">W_Bluebell</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/wbluebell0221</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Yeri</Data></Cell>
+			<Cell><Data ss:Type="String">AdorableCandy (어도러블캔디)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/adorablecandy81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Yeri</Data></Cell>
+			<Cell><Data ss:Type="String">Be A Better You (비어베럴유)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/beabetteryou35</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Yeri</Data></Cell>
+			<Cell><Data ss:Type="String">BEATRICE</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/beatrice990305</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Yeri</Data></Cell>
+			<Cell><Data ss:Type="String">CandyFloss (켄디프로스)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/0305candyfloss</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Yeri</Data></Cell>
+			<Cell><Data ss:Type="String">Carpe Diem (카르페디엠)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/Carpe_Diem0305</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Yeri</Data></Cell>
+			<Cell><Data ss:Type="String">FAR but NEAR</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/FARbutNEAR0305</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Yeri</Data></Cell>
+			<Cell><Data ss:Type="String">KimYerimBar</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/ChinaYeriBar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Yeri</Data></Cell>
+			<Cell><Data ss:Type="String">OnlYerIce (온리예리아이스)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/OnlYerIce305</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Yeri</Data></Cell>
+			<Cell><Data ss:Type="String">PETITE FLEUR (쁘띠플레르)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/PetiteFleur_YR</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Yeri</Data></Cell>
+			<Cell><Data ss:Type="String">Red slush (레드슬러쉬)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/red_slush_0305</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Yeri</Data></Cell>
+			<Cell><Data ss:Type="String">Spring’s fairytale (스프링스페어리테일)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/fairytale_yr</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Yeri</Data></Cell>
+			<Cell><Data ss:Type="String">Yeri's Printer (예리의 프린터)</Data></Cell>
+			<Cell><Data ss:Type="String">https://twitter.com/yerisprinter</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

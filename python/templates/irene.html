@@ -1,0 +1,72 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<div class="float-member">
+    <ul class="float-member">
+      <a href="yeri.html"><img class="img-circle float-member" src="{{ url_for("static", filename="image/yerm.jpg") }}" alt="Yeri"></a>
+      <a href="joy.html"><img class="img-circle float-member" src="{{ url_for("static", filename="image/joy.jpg") }}" alt="Joy"></a>
+      <a href="wendy.html"><img class="img-circle float-member" src="{{ url_for("static", filename="image/wan.jpg") }}" alt="Wendy"></a>
+      <a href="seulgi.html"><img class="img-circle float-member" src="{{ url_for("static", filename="image/slg.jpg") }}" alt="Seulgi"></a>
+    </ul>
+</div>
+
+<!--CONTENT HEADER-->
+<div class="container">
+  <div class="row header">
+    <div class="col-xs-2 col-xs-offset-1 col-md-2 col-md-offset-1">
+      <p>
+        <img class="img-circle header" src="{{ url_for("static", filename="image/bir.jpg") }}" alt="Irene">
+      </p>
+    </div>
+    <div class="col-xs-6 col-md-6">
+      <div class='outer-div header'>
+        <div class='middle-div'>
+          <p class='middle-div'>
+            Irene's Fan Site
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!--CONTENT FANSITE-->
+  <div class="row">
+    <div class="col-xs-2 col-xs-offset-2 col-md-2 col-md-offset-2">
+      <p>
+        <img class="img-circle fansite" src="{{ url_for("static", filename="image/bir.jpg") }}" alt="Irene">
+      </p>
+    </div>
+    <div class="col-xs-6 col-md-6">
+      <div class='outer-div fansite'>
+        <div class='middle-div fansite'>
+          <h2>Always Beautiful<br>(언제나 아름다워)</h2>
+          <p>
+            twitter: <a href="https://twitter.com/always0329">@always0329</a> <br>
+            site: <a href="http://irene329.kr/">irene329.kr</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-xs-2 col-xs-offset-2 col-md-2 col-md-offset-2">
+      <p>
+        <img class="img-circle fansite" src="{{ url_for("static", filename="image/bir.jpg") }}" alt="Irene">
+      </p>
+    </div>
+    <div class="col-xs-6 col-md-6">
+      <div class='outer-div fansite'>
+        <div class='middle-div fansite'>
+          <h2>Be My Brownie</h2>
+          <p>
+            twitter: <a href="https://twitter.com/bemybrownie91">@bemybrownie91</a> <br>
+            site: <a href="http://baejuhyun.kr/">baejuhyun.kr</a> <br>
+            instagram: <a href="https://www.instagram.com/bemybrownie91/">bemybrownie91</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

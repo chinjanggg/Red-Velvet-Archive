@@ -1,0 +1,71 @@
+/*
+-- Query: SELECT * FROM rvv_archive.belongsto
+LIMIT 0, 1000
+
+-- Date: 2018-05-23 14:13
+*/
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Charismatic Yerene','Group');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Galaxy in ur Eyes (네 눈 안의 우주)','Group');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('mamass (마마쓰)','Group');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Red Gun (레드건)','Group');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Red Moon','Group');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Rocket to the Planet','Group');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('TheRigel005','Group');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Always Beautiful (언제나 아름다워)','Irene');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('B-329','Irene');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Baby Bottle','Irene');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('BAEBY','Irene');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Be My Brownie','Irene');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Celestial (셀레스티얼)','Irene');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Golden Slumber','Irene');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('IreneBar','Irene');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Love is in the Air','Irene');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('MORNING','Irene');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Rabbit Queen (래빗퀸)','Irene');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Snowy329','Irene');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Sour Candy Rabbit','Irene');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Star Blanket (별을 덮고 자는 소녀)','Irene');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('SWEET CAKE','Irene');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('SweetBae','Irene');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('ThinkB (자꾸 생각나)','Irene');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('A Shine Universe (어샤인유니버스)','Joy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Be My Jewel','Joy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Full of Joy','Joy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('JoyHK','Joy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('ParkSooYoungBar','Joy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Pumpkin','Joy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('SHVJOY','Joy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Sweet Temptation','Joy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Wonder Never Cease','Joy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Fabulous','Seulgi');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Hydrogen (수소)','Seulgi');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Irreplaceable (이리플레이서블)','Seulgi');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('RICKKONG','Seulgi');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Sensible K','Seulgi');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('SeulgiBar','Seulgi');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Sparkle','Seulgi');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Ursa Major','Seulgi');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('AQUA MOOD','Wendy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('B612 (완행성)','Wendy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Bluecake','Wendy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Dearlightwendy','Wendy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('ENGM','Wendy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Fantasy Blue','Wendy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('IneffableVoice','Wendy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('MapleSyrup','Wendy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('THE SMURF','Wendy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('WendyBar','Wendy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('WENever (웬에버)','Wendy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('W_Bluebell','Wendy');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('AdorableCandy (어도러블캔디)','Yeri');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Be A Better You (비어베럴유)','Yeri');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('BEATRICE','Yeri');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('CandyFloss (켄디프로스)','Yeri');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Carpe Diem (카르페디엠)','Yeri');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('FAR but NEAR','Yeri');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('KimYerimBar','Yeri');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('OnlYerIce (온리예리아이스)','Yeri');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('PETITE FLEUR (쁘띠플레르)','Yeri');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Red slush (레드슬러쉬)','Yeri');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Spring’s fairytale (스프링스페어리테일)','Yeri');
+INSERT INTO `belongsto` (`fName`,`member`) VALUES ('Yeri\'s Printer (예리의 프린터)','Yeri');

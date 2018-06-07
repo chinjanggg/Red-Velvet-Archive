@@ -1,0 +1,48 @@
+@media (max-width: 480px) {
+  .row .header {
+    min-width: 100px;
+    min-height: 100px;
+  }
+  .fname {
+    font-size: 1.5em
+  }
+}
+@media (min-width: 480px) {
+  .row .header {
+    min-width: 125px;
+    min-height: 125px;
+  }
+  .fname {
+    font-size: 1.5em
+  }
+}
+@media (min-width: 992px) {
+  img.fansite {
+    max-width: 125px;
+    max-height: 125px;
+  }
+  .fname {
+    font-size: 2em
+  }
+}
+
+p.header {
+  text-align: left;
+}
+
+div.outer-div.fansite {
+  width: auto;
+  height: 125px;
+  margin-bottom: 100px;
+}
+
+div.middle-div.fansite {
+  text-align: left;
+}
+div.middle-div.fansite a {
+  color: #333;
+}
+
+div#mname {
+  padding-left: 30px;
+}

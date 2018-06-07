@@ -1,0 +1,11 @@
+.album {
+  margin-right: 30px;
+}
+
+.album a {
+  color: #333;
+}
+
+a.album {
+  color: #333;
+}

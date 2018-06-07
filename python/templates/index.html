@@ -1,0 +1,53 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+  <div class="banner">
+    <img class="img-banner" src="{{ url_for("static", filename="image/banner.jpg") }}">
+  </div>
+
+  <div class="container">
+    <div class="row">
+      {% for i in range(0,5) %}
+        {% with first="col-xs-2 col-xs-offset-1 col-md-2 col-md-offset-1", second="col-xs-2 col-md-2" %}
+        {% if i<1 %}
+          <div class= "{{ first }}">
+        {% else %}
+          <div class="{{ second }}">
+        {% endif %}
+        {% endwith %}
+        <p>
+        {% if i<1 %}
+          <a href="/irene"><img class="img-circle" src="{{ url_for("static", filename="image/bir.jpg") }}" alt="Irene"></a>
+          <br>
+          Irene
+        {% elif i<2 %}
+          <a href="/seul"><img class="img-circle" src="{{ url_for("static", filename="image/slg.jpg") }}" alt="Seulgi"></a>
+          <br>
+          Seulgi
+        {% elif i<3 %}
+          <a href="/wendy"><img class="img-circle" src="{{ url_for("static", filename="image/wan.jpg") }}" alt="Wendy"></a>
+          <br>
+          Wendy
+        {% elif i<4 %}
+          <a href="/joy"><img class="img-circle" src="{{ url_for("static", filename="image/joy.jpg") }}" alt="Joy"></a>
+          <br>
+          Joy
+        {% elif i<5 %}
+          <a href="/yeri"><img class="img-circle" src="{{ url_for("static", filename="image/yerm.jpg") }}" alt="Yeri"></a>
+          <br>
+          Yeri
+        {% endif %}
+        </p>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class='memberlist'>
+    {% for member in members %}
+      <div class='member'>
+        <p>{{ member }}</p>
+      </div>
+    {% endfor %}
+  </div>
+{% endblock %}

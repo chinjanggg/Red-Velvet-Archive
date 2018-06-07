@@ -1,0 +1,11 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+  <form method='POST' class='memberform'>
+    <label for='membertext'>
+      Membertext
+      <textarea name='membertext'></textarea>
+    </label>
+    <input type='submit' name='createmember' value="Save">
+  </form>
+{% endblock %}

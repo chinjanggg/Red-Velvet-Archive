@@ -1,0 +1,15 @@
+div.outer-div {
+  width: 100%;
+}
+
+div.middle-div {
+  margin: 0 auto;
+}
+
+.banner {
+  margin: 20px;
+}
+
+.row {
+  font-size: 1.6em;
+}

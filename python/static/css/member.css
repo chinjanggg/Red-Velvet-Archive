@@ -1,0 +1,79 @@
+@media (max-width: 480px) {
+  div.middle-div {
+    top: 40%;
+  }
+  p.middle-div {
+    font-size: 40px;
+  }
+  .row .header {
+    min-width: 125px;
+    min-height: 125px;
+  }
+}
+@media (min-width: 480px) {
+  div.middle-div {
+    top: 40%;
+  }
+  p.middle-div {
+    font-size: 40px;
+  }
+  .row .header {
+    min-width: 125px;
+    min-height: 125px;
+  }
+}
+@media (min-width: 992px) {
+  div.middle-div {
+    top: 50%;
+  }
+  p.middle-div {
+    font-size: 50px;
+  }
+  img.fansite {
+    max-width: 125px;
+    max-height: 125px;
+  }
+}
+
+.float-member {
+  float: right;
+  padding-right: 5px;
+  padding-top: 5px;
+}
+.float-member img {
+  width: 50px;
+  -webkit-filter: grayscale(50%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(50%); /* FF 35+ */
+}
+.float-member img:hover {
+  -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(0%); /* FF 35+ */
+}
+
+div.outer-div {
+  height: 150px;
+}
+
+div.middle-div {
+  position: relative;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  width: auto;
+}
+
+div.outer-div.fansite {
+  width: auto;
+  height: 125px;
+}
+
+div.middle-div.fansite {
+  top: 35%;
+  text-align: left;
+}
+div.middle-div.fansite a {
+  color: #333;
+}
+p.middle-div {
+  text-align: left;
+}

@@ -1,0 +1,42 @@
+@media (min-width: 480px) {
+  .btn-tag {
+    font-size: 0.8em;
+  }
+}
+@media (min-width: 992px) {
+  .btn-tag {
+    font-size: 1em;
+  }
+}
+
+div.header {
+  width: 100%;
+}
+
+div.input-field {
+  padding-bottom: 8px;
+}
+
+div#tagList {
+  padding-bottom: 5px;
+}
+
+
+.btn-addtag:hover {
+  background-color: #ffccdd;
+  color: black;
+}
+.btn-go {
+  color: black;
+  border: 2px solid black;
+}
+.btn-go:hover {
+  color: black;
+}
+.btn-clear {
+  color: red;
+  border: 2px solid red;
+}
+.btn-clear:hover {
+  color: red;
+}

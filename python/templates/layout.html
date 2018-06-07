@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" type="image/png" href="{{ url_for("static", filename="image/logo.png") }}"/>
+  <title>Red Velvet Archive</title>
+
+  <!--Bootstrap-->
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="{{ url_for("static", filename="bootstrap/css/bootstrap.min.css") }}">
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="{{ url_for("static", filename="bootstrap/js/bootstrap.min.js") }}"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="{{ url_for("static", filename="js/jquery.scrl.js") }}"></script>
+
+  <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+  <link rel="stylesheet" href="{{ url_for("static", filename="bootstrap/js/ie10-viewport-bug-workaround.js") }}">
+
+  <link rel="stylesheet" href="{{ url_for("static", filename="css/member.css") }}">
+  <link rel="stylesheet" href="{{ url_for("static", filename="css/style.css") }}">
+  <link rel="stylesheet" href="{{ url_for("static", filename="css/index.css") }}">
+</head>
+
+<body id="page-top">
+  <!--NAVBAR-->
+  <nav class="navbar navbar-inverse">
+    <div class="container">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="/">
+          <!-- <img src="img/logo.png" width="17px" height="17px"> -->
+          Red Velvet Archive
+        </a>
+      </div>
+      <div id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-form navbar-right">
+          <a class="btn btn-add" href="/createmember" role="button">Create Member</a>
+          <a class="btn btn-add" href="/upload" role="button">Add/Edit</a>
+          <a class="btn btn-search" href="/search" role="button">Search</a>
+        </ul>
+      </div><!--/.nav-collapse -->
+    </div>
+  </nav>
+
+  {% block content %}
+  {% endblock %}
+
+  <div class="container">
+    <!-- START THE FEATURETTES -->
+    <hr class="featurette-divider">
+    <!-- /END THE FEATURETTES -->
+    <!-- FOOTER -->
+    <footer>
+      <p class="pull-right"><a href="#">Back to top</a></p>
+      <p>&copy; chinjanggg &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+    </footer>
+  </div><!-- /.container -->
+
+  <!--jQuery & Bootstrap JS-->
+  <script src="{{ url_for("static", filename="bootstrap/js/jquery.min.js") }}"></script>
+  <script src="{{ url_for("static", filename="bootstrap/js/bootstrap.min.js") }}"></script>
+
+  <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+  <script src="{{ url_for("static", filename="bootstrap/js/ie10-viewport-bug-workaround.js") }}"></script>
+</body>
+</html>

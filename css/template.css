@@ -1,0 +1,133 @@
+body {
+  padding-bottom: 40px;
+  color: #5a5a5a;
+  min-width: 480px;
+  width: auto !important;
+  width: 750px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  width: auto\9;
+}
+
+@media (max-width: 480px) {
+  .header {
+    font-size: 30px;
+  }
+}
+@media (min-width: 480px) {
+  .header {
+    font-size: 40px;
+  }
+}
+@media (min-width: 992px) {
+  .header {
+    font-size: 50px;
+  }
+}
+
+.container {
+  width: 100%;
+}
+
+.navbar {
+  margin: 0;
+}
+.navbar-brand {
+  width: auto;
+}
+
+/*button*/
+.btn {
+  background-color: Transparent;
+  display: inline-block;
+  border-radius: 0.25rem;
+  color: lightgrey;
+  -webkit-transition-duration: 0.2s; /* Safari */
+  transition-duration: 0.2s;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+.btn:hover {
+  color: white;
+}
+.btn-add {
+  border: 2px solid #4CAF50;
+}
+.btn-add:hover {
+  background-color: #4CAF50;
+}
+.btn-search {
+  border: 2px solid #C10F17;
+}
+.btn-search:hover {
+  background-color: #C10F17;
+}
+.btn-tag {
+  color: #CCCCCC;
+  padding: 5px;
+}
+.btn-tag:hover {
+  background-color: #EEEEEE;
+  color: black;
+}
+.btn-addtag {
+  color: #990030;
+  padding: 5px;
+  background-color: #f5f5f5;
+}
+
+.header {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.float-member {
+  float: right;
+  padding-right: 5px;
+  padding-top: 5px;
+}
+
+.float-member img {
+  width: 50px;
+  -webkit-filter: grayscale(50%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(50%); /* FF 35+ */
+}
+.float-member img:hover {
+  -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(0%); /* FF 35+ */
+}
+
+.row {
+  padding-top: 50px;
+  text-align: center;
+  min-width: 480px;
+}
+
+.col-md-2 img {
+  -webkit-filter: grayscale(20%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(20%); /* FF 35+ */
+  margin-bottom: 10px;
+}
+.col-md-2 img:hover {
+  -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(0%); /* FF 35+ */
+}
+
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 50px 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
